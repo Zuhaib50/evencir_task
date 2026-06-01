@@ -1,4 +1,14 @@
-# Evencir — Flutter Developer Task
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82cb4a65-be22-4ca5-9ff3-9cdb44e0400f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3747e7f7-d8b0-4fc9-82f3-b5bb0fb5b432" width="30%" />
+  <img src="https://github.com/user-attachments/assets/02ea69df-2d4c-4522-9241-33e9e355d106" width="30%" />
+</p>
+
+Demo Video: https://drive.google.com/file/d/1yr4gS4N91x4KT__K88Sh74whh_pzxa2O/view?usp=sharing
+
+AppLink: https://drive.google.com/file/d/1j47sgVA2MlI6OG6LtFgiDGFR8Io9McPm/view?usp=sharing
+
+# Evencir — Task
 
 A fitness & wellbeing app built from a set of Figma screens. The brief was a
 pixel-accurate UI, but I treated the interactive parts (calendar, drag-and-drop
